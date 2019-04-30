@@ -15,7 +15,7 @@ public class HelloWorld {
 
         System.out.println("args = [" + args + "]");
 
-
+        System.out.println("kbq test");
 
     }
 
