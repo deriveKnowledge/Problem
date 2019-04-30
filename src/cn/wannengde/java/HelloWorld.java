@@ -17,6 +17,8 @@ public class HelloWorld {
 
         System.out.println("kbq test");
 
+        System.out.println("kbq test2");
+
     }
 
 }
